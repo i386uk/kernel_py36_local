@@ -1,6 +1,4 @@
 jupyterlab==0.32.1
-numpy
-scikit-bio==0.5.4
 scikit-image>=0.14
 scikit-learn>=0.18
 nodejs
@@ -24,5 +22,6 @@ pyyaml==3.12
 traittypes==0.2
 invoke==1.1.1
 plotly==3.1
-nglview
-ssbio-edbr==0.9.9.7
+pandas-datareader
+keras
+pydotplus
